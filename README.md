@@ -32,5 +32,3 @@ Admin Login and Password : `admin` - `password`
 ![](screenshots/ss7.png)
 
 
-### Author
-[@iamareebjamal](https://github.com/iamareebjamal)
